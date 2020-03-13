@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-rubys",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add some ruby character for your post body, just for fun",
   "main": "index.js",
   "scripts": {
